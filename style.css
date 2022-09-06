@@ -1,8 +1,23 @@
-p {
+.lista {
  color: red;
 font-size: 30;
+}
+
+#imagem {
+ text-aling: center;
+}
+
+#link {
+ text-aling: center;
+}
+
+p {
+ color:red;
+ font-size: 30;
 text-aling: left;
 }
+
+
 h1 {
 color: blue;
 font-size: 50;
