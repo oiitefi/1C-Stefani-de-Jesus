@@ -5,10 +5,22 @@ font-size: 30;
 
 #imagem {
  text-aling: center;
+background:black;
 }
 
-#link {
- text-aling: center;
+#destaque {
+border: 5px;
+border- steyle: dashed;
+border-color: blue;
+border-top-left-radius: 500px;
+border-top-right-radius: 500px;
+border-bottom-left-radius:500px;
+border-bottom-right-radius:500px;
+padding-top:30px;
+padding-bottom:30px;
+margin-left:500px;
+margin-right:500px;
+background: yellow;
 }
 
 p {
